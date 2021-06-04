@@ -1,0 +1,161 @@
+h1{
+  /*text-shadow: #525252 0px 0px 20px;*/
+  font-weight: bold;
+}
+
+h4{
+  font-weight: bold;
+}
+
+pre {
+  border: 0;
+  background-color: transparent;
+  white-space:nowrap;
+}
+
+.h3, h3 {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.col-md-4 p{
+  color: #555;
+  font-size: 16px;
+}
+
+.credits p{
+  color: #555;
+  font-size: 16px;
+}
+
+.develop p{
+  font-size: 16px;
+}
+
+.row li{
+  color: #555;
+  font-size: 16px;
+}
+
+.key_features{
+  text-shadow: none;
+}
+
+.tagline{
+  /*text-shadow: #525252 0px 0px 20px;*/
+}
+
+.center{
+    width:340px;
+    margin:0 auto;
+    text-align:left;
+}
+
+.custom-image{
+  position: relative;
+  bottom: -110px;
+  padding: 40px;
+  margin: 0 auto;
+  margin-top: -120px;
+  width: 900px;
+  height: auto;
+}
+
+.logo-image{
+  width: 70px;
+  height: auto;
+  display: initial;
+}
+
+.jumbotron {
+   padding-top: 0;
+   color: #ffffff;
+   background-image: url(../img/aurora-1.jpg); 
+   background-size: cover; 
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+    position: inherit;
+}
+
+.navbar-fixed-bottom, .navbar-fixed-top {
+    position: inherit;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.tile{
+  padding: 1.25rem 2.5rem 1.25rem 1.5rem;
+  color: white;
+}
+
+.tile p{
+  color: white;
+}
+
+.tile h3{
+  font-weight: bold;
+}
+
+.outer-tile{
+  border-radius: 10px;
+  margin: 6px;
+  height: 180px;
+}
+
+.purple-tile{
+  background-color: #9C27B0;
+}
+
+.green-tile{
+  background-color: #4CAF50;
+}
+
+.pink-tile{
+  background-color: #F06292;
+}
+
+.yellow-tile{
+  background-color: #FF9800;
+}
+
+.blue-tile{
+  background-color: #2196F3;
+}
+
+.maroon-tile{
+  background-color: #840045
+}
+
+.navbar-inverse {
+    background-color: #4CAF50;
+    border-color: #4CAF50;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+
+.navbar-header{
+  width: 100%;
+}
+
+#codefund_ad .cf-text {
+  color: #dbdbdb !important;
+}
+
+.cf-header {
+    color: #babdc1 !important;
+}
+
+.cf-powered-by {
+    color: #babdc1 !important;
+}
+
+@media (min-width: 992px){
+  .col-md-4 {
+      width: 31.333333%;
+  }
+}
